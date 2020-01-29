@@ -1,0 +1,1 @@
+the script 0-current_working_directory let me knows the absolute path of the current working directory
