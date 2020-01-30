@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty -hello, chgrp betty -hello
+chown --no-deference betty:holberton _hello
